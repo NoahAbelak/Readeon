@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Readeon Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header Section -->
+        <header>
+            <h1>Readeon</h1>
+            <h2>A Reading Club</h2>
+        </header>
+
+        <!-- Main Section -->
+        <main>
+            <section class="intro">
+                <p>Readeon is a wonderful club where we summarize theme-driven books. The entire Spy School series is our current focus.</p>
+                <p>We plan to read books online and then provide our own personalized summaries.</p>
+            </section>
+
+            <!-- Book Summary Section -->
+            <section class="book-summaries">
+                <h3>Books & Summaries:</h3>
+                <p>Once you finish reading, you can write and submit summaries for these books.</p>
+                <ul>
+                    <li>Spy School</li>
+                    <li>Spy Camp</li>
+                    <li>Evil Spy School</li>
+                </ul>
+            </section>
+
+            <!-- Image Section -->
+            <section class="image-section">
+                <h3>Image of the Book</h3>
+                <img src="your-image-path.jpg" alt="Book Image">
+            </section>
+        </main>
+
+        <!-- Footer Section -->
+        <footer>
+            <p>Contact us at Noah.Abelak@gmail.com for recommendations or suggestions.</p>
+        </footer>
+    </div>
+</body>
+</html>
